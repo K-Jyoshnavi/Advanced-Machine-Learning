@@ -9,11 +9,19 @@ Monetary: This refers to the total amount a customer has spent. In your example,
 Description of the data:
 
 InvoiceNo: Unique identifier for the invoice
+
 StockCode: Unique identifier for the product
+
 Description: Description of the product
+
 Quantity: Number of units purchased for each item in the invoice
+
 InvoiceDate: Date and time of the invoice
+
 UnitPrice: Price per unit of the product
+
 CustomerID: Unique identifier for the customer
+
 Country: Country of the customer
+
 TotalPrice: Total amount paid for the invoice
