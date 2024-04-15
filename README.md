@@ -7,6 +7,7 @@ Frequency: This refers to how often a customer makes a purchase. In your example
 Monetary: This refers to the total amount a customer has spent. In your example, this is available in the 'TotalPrice' column.
 
 Description of the data:
+
 InvoiceNo: Unique identifier for the invoice
 StockCode: Unique identifier for the product
 Description: Description of the product
